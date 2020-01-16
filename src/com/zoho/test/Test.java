@@ -13,4 +13,7 @@ public class Test{
     System.out.println(a+ " " +b);
     
   }
+  
+  public String test(){
+  }
 }
