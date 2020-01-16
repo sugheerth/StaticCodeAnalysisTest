@@ -1,5 +1,3 @@
-//$Id$
-package com.zoho.rmi.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
