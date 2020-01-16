@@ -12,6 +12,8 @@ public class Test{
     String b = "world";
     System.out.println(a+ " " +b);
     
+    test();
+    
   }
   
   public String test(){
